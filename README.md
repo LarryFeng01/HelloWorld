@@ -11,7 +11,7 @@ Welcome to my project for DATA 410. In this project, I will include some picture
 ### Happy
 ![](happy.png)
 
-##Markdown
+## Markdown
 
   Lists
   1. one
@@ -42,7 +42,7 @@ Welcome to my project for DATA 410. In this project, I will include some picture
 
 ![equation](https://latex.codecogs.com/svg.image?%5Csqrt%7Bcos(3x%5E2)&plus;sin(x%5E%7B5%7D)&plus;%5Cpi%7D)
 
-##Python Code
+## Python Code
 
   import matplotlib.pyplot as plt
   plt.plot([1,2,3,4])
