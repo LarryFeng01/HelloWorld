@@ -13,13 +13,14 @@ Welcome to my project for DATA 410. In this project, I will include some picture
 
 ## Markdown
 ```
+  Syntax highlighted code block
+  
   Lists
   1. one
   2. two
   3. three
   
   Emphasis
-  
   **This is bold text**
   
   __This is bold text__
@@ -30,7 +31,7 @@ Welcome to my project for DATA 410. In this project, I will include some picture
   
   ~~Strikethrough~~
 ```
-  Table
+### Table
   
   | Cats   | Description |
   | ------ | ----------- |
